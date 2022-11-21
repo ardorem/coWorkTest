@@ -1,5 +1,5 @@
 package myself;
-
+// commit test
 public class LinkedList {
 	private ListNode head;
 	
